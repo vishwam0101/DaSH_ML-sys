@@ -40,6 +40,7 @@ The repository is structured with each task contained within its own directory. 
 Please clone this repository and complete the tasks in your copy of the repository. Once you have completed the tasks, you can push the changes to a **private** GitHub repository and add the following GitHub users as [collaborators](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/repository-access-and-collaboration/inviting-collaborators-to-a-personal-repository) to your repository:
 - vimarsh244
 - pranav-m-r
+- sohlost
 
 
 ## Any Questions?
